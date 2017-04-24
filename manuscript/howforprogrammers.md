@@ -438,7 +438,7 @@ Experiment to find your own sweet spot.
 
 You might be surprised by how little sleep you actually need once it's effective. As natural as sleep is, a lot of people are just plain terrible at it. Either they lay in bed waiting to fall asleep for far too long or wake up tired and groggy.
 
-For refreshing sleep you are optimizing your sleep for the REM - rapid eye movement - stage of sleep. Occuring roughly every 90 minutes this is the dreaming sleep stage. During REM your brain is as active as while you are awake, but your body is completely paralysed to prevent acting out your dreams.
+For refreshing sleep you are optimizing your sleep for the REM - rapid eye movement - stage of sleep. Occurring roughly every 90 minutes this is the dreaming sleep stage. During REM your brain is as active as while you are awake, but your body is completely paralysed to prevent acting out your dreams.
 
 REM is usually followed by a period of very light sleep that is the perfect opportunity for waking up fresh as a flower. Missing this window of opportunity will leave you feeling worse than if you hadn't slept at all.
 
@@ -522,7 +522,7 @@ The only stimulant other than caffeine that I've tried was methylone and I don't
 
 When I tried methylone I specifically wanted to test how well it worked for improving cognitive performance. At first it seemed to work very well - I improved my time my record in a Colin McRae game by almost a minute on a 4 minute track. It felt like I could see into the future and was so at one with the car and keyboard that my reflexes were far too fast to follow with my conscious mind.
 
-But the stimulating effect became too much after about twenty minutes and I could no longer focus enough to follow the game. My muscle response became too rigid as well and I lacked the fine motor control required to type with any finese.
+But the stimulating effect became too much after about twenty minutes and I could no longer focus enough to follow the game. My muscle response became too rigid as well and I lacked the fine motor control required to type with any finesse.
 
 Not a very productive stimulant therefore, but I did talk like the wind all night, unable to stop, my mind kept racing and I couldn't sit still until about 8am when I was physically exhausted but had a hard time falling asleep.
 

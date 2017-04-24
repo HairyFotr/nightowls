@@ -30,7 +30,7 @@ All programmers are engineers at heart, no matter what their formal qualificatio
 
  * Persistent
 
-Relentlessly hunting down bugs is a source of great pride for most programmers, and many would sooner go without sleep than allow a bug to remain in production code. More experienced developers will often go to sleep when they they start making silly mistakes, but they will never forget a bug.
+Relentlessly hunting down bugs is a source of great pride for most programmers, and many would sooner go without sleep than allow a bug to remain in production code. More experienced developers will often go to sleep when they start making silly mistakes, but they will never forget a bug.
 
  * Not self-centered
 
@@ -227,7 +227,7 @@ If a programmer can prevent themselves from straying off into the wild internet 
 
 Conversely even the shortest external distraction can be devastating.
 
-Most distractions come from coworkers who are just trying to get their work done, but need your involvement - the gordian knot of working in a team of programmers is having two programmers who depend on one another. Both are in a state of flow. One of them has a problem. Do they destroy their productivity by waiting on the other person to naturally come out of flow, or destroy the other person's productivity by interrupting them?
+Most distractions come from coworkers who are just trying to get their work done, but need your involvement - the Gordian knot of working in a team of programmers is having two programmers who depend on one another. Both are in a state of flow. One of them has a problem. Do they destroy their productivity by waiting on the other person to naturally come out of flow, or destroy the other person's productivity by interrupting them?
 
 Hopefully they can work on something else, but this requires a context switch to a different problem as well.
 

@@ -30,7 +30,7 @@ I was lucky enough never to endure dial-up internet. Right around the time inter
 
 > So your best bet for the internet is after 10pm or 11pm, that's when you can reach full speed. Another option is at 6am or 7am, but that's really hard to get up for.
 
-I was very impressed by all of this, didn't understand a thing and stuck to windows3.1 games on his computer. Those were fun. The internet did not sound like an interesting place at all.
+I was very impressed by all of this, didn't understand a thing and stuck to Windows 3.1 games on his computer. Those were fun. The internet did not sound like an interesting place at all.
 
 A combination of these factors may have greatly contributed to the idea that "computer people" work at night. That they live off coffee and are generally night dwellers who avoid light at all cost. 
 
